@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "293221863930",
+    "project_id": "myfirebaseproject-5cdf5",
+    "storage_bucket": "myfirebaseproject-5cdf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293221863930:android:05d70c3f0e3440f61ad443",
+        "android_client_info": {
+          "package_name": "com.example.mycollage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293221863930-4j2ria4ckh3kmegf0pud2biaikpcuqi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvc4uyY3JVQn18ZJC0xmpx-44ETSgO2og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293221863930-4j2ria4ckh3kmegf0pud2biaikpcuqi3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
